@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://https://annie.netlify.com",
     "hubpress": "https://annie.netlify.com",
-    "theme": "//https://annie.netlify.com/themes/casper",
+    "theme": "//https://annie.netlify.com/themes/ghostium",
     "images": "http://https://annie.netlify.com/images"
   },
   "initialisationConfigComponent": {
