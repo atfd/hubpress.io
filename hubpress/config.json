@@ -6,7 +6,7 @@
     "cname": "https://annie.netlify.com"
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   },
   "urls": {
     "site": "http://https://annie.netlify.com",
@@ -24,5 +24,27 @@
       null
     ],
     "_Ctor": {}
+  },
+  "site": {
+    "title": "ATFD's Hub",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
